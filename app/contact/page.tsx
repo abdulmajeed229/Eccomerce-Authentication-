@@ -24,7 +24,7 @@ export default function ContactMe(){
               className="w-full bg-gray-100 rounded-md py-3 px-4 text-sm outline-blue-600 focus-within:bg-transparent" />
             <input type='email' placeholder='Phone No.'
               className="w-full bg-gray-100 rounded-md py-3 px-4 text-sm outline-blue-600 focus-within:bg-transparent" />
-            <textarea placeholder='Message' rows="6"
+            <textarea placeholder='Message' 
               className="w-full bg-gray-100 rounded-md px-4 text-sm pt-3 outline-blue-600 focus-within:bg-transparent"></textarea>
 
             <button type='button'
